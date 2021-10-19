@@ -1,5 +1,7 @@
 package com.revature.daos;
 
-public class DogDao {
+public class DogDao implements DogDaoInterface{
+	
+	
 
 }
